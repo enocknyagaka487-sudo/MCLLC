@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="108" fill="#0b0f19"/>
+  <!-- Gold Bull Candle -->
+  <line x1="160" y1="120" x2="160" y2="380" stroke="#f59e0b" stroke-width="8" stroke-linecap="round"/>
+  <rect x="135" y="160" width="50" height="160" rx="6" fill="#f59e0b"/>
+  
+  <!-- Green Center Candle -->
+  <line x1="256" y1="180" x2="256" y2="340" stroke="#10b981" stroke-width="8" stroke-linecap="round"/>
+  <rect x="231" y="210" width="50" height="90" rx="6" fill="#10b981"/>
+  
+  <!-- Cyan/Gold Tall Right Candle -->
+  <line x1="352" y1="90" x2="352" y2="410" stroke="#38bdf8" stroke-width="8" stroke-linecap="round"/>
+  <rect x="327" y="140" width="50" height="200" rx="6" fill="#38bdf8"/>
+  
+  <!-- Subtle Grid Base -->
+  <line x1="80" y1="440" x2="432" y2="440" stroke="#1e293b" stroke-width="4" stroke-linecap="round"/>
+  <text x="256" y="475" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" letter-spacing="4">MT5 TERMINAL</text>
+</svg>

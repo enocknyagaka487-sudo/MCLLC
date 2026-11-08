@@ -1,0 +1,8 @@
+{
+  "name": "Remix MCLLC MT5 Institutional Algorithmic Trading Station",
+  "description": "Multi-market algorithmic trading bot terminal with 30s polling, 4x 0.05 lot execution, 10% equity target liquidator, risk balancer, Asian session alerts, and ICT structure detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
